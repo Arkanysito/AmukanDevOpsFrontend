@@ -1,0 +1,31 @@
+.overlay {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+.overlay {
+  background: rgba(49,49,49,0.8);
+}
+
+.popupEncuesta-content {
+background-color: #ffffff !important;
+color: #000000 !important;
+}
+
+.popupEncuesta-content h2 {
+color: #000000 !important;
+}
+
+.popupEncuesta-content p {
+color: #6b7280 !important;
+}
+
+/* Evitar que el dark mode afecte */
+.popupEncuesta-content {
+color-scheme: light;
+}

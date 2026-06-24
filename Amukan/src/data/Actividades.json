@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tour Jardín Botánico",
+    "duracion": "Medio día",
+    "salida": "Plaza Sucre 09:00AM",
+    "llegada": "Jardín Botánico 09:20AM",
+    "precio": 15000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "No incluye hospedaje.",
+        "rating": 0
+      },
+      "transporte": {
+        "descripcion": "Incluye transporte ida y vuelta.",
+        "rating": 4.6
+      },
+      "comida": {
+        "descripcion": "Snack y agua incluidos.",
+        "rating": 4.2
+      },
+      "actividades": {
+        "descripcion": "Recorrido guiado por la flora nativa.",
+        "rating": 4.9
+      }
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Paseo en bote por la costa",
+    "duracion": "2 horas",
+    "salida": "Muelle Vergara 15:00PM",
+    "llegada": "Muelle Vergara 17:00PM",
+    "precio": 20000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "No incluye hospedaje.",
+        "rating": 0
+      },
+      "transporte": {
+        "descripcion": "Punto de encuentro en muelle.",
+        "rating": 4.5
+      },
+      "comida": {
+        "descripcion": "No incluye comida.",
+        "rating": 0
+      },
+      "actividades": {
+        "descripcion": "Recorrido marítimo con vista a los acantilados.",
+        "rating": 4.8
+      }
+    }
+  }
+]

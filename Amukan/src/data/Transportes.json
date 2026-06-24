@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "titulo": "Toyota Corolla",
+    "precio": 25000
+  },
+  {
+    "id": 2,
+    "titulo": "Honda Civic",
+    "precio": 27000
+  }
+]

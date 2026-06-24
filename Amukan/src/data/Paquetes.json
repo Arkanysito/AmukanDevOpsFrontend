@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "Escapada cultural en Reñaca",
+    "duracion": "2 días / 1 noche",
+    "salida": "San Antonio 05:00AM",
+    "llegada": "Reñaca 07:35AM",
+    "precio": 85000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "Consta de una tinaja y ventanas con diseño de ventanal.",
+        "rating": 4.3
+      },
+      "transporte": {
+        "descripcion": "Bus privado con aire acondicionado.",
+        "rating": 4.2
+      },
+      "comida": {
+        "descripcion": "Cocinas mejores calificadas para satisfacer un viaje agotador.",
+        "rating": 4.7
+      },
+      "actividades": {
+        "descripcion": "Divertidas incursiones, caminatas y mucho más.",
+        "rating": 4.5
+      }
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Escapada cultural en Reñaca",
+    "duracion": "2 días / 1 noche",
+    "salida": "San Antonio 05:00AM",
+    "llegada": "Reñaca 07:35AM",
+    "precio": 85000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "Consta de una tinaja y ventanas con diseño de ventanal.",
+        "rating": 4.3
+      },
+      "transporte": {
+        "descripcion": "Bus privado con aire acondicionado.",
+        "rating": 4.2
+      },
+      "comida": {
+        "descripcion": "Cocinas mejores calificadas para satisfacer un viaje agotador.",
+        "rating": 4.7
+      },
+      "actividades": {
+        "descripcion": "Divertidas incursiones, caminatas y mucho más.",
+        "rating": 4.5
+      }
+    }
+  },
+  {
+    "id": 3,
+    "titulo": "Escapada cultural en Reñaca",
+    "duracion": "2 días / 1 noche",
+    "salida": "San Antonio 05:00AM",
+    "llegada": "Reñaca 07:35AM",
+    "precio": 85000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "Consta de una tinaja y ventanas con diseño de ventanal.",
+        "rating": 4.3
+      },
+      "transporte": {
+        "descripcion": "Bus privado con aire acondicionado.",
+        "rating": 4.2
+      },
+      "comida": {
+        "descripcion": "Cocinas mejores calificadas para satisfacer un viaje agotador.",
+        "rating": 4.7
+      },
+      "actividades": {
+        "descripcion": "Divertidas incursiones, caminatas y mucho más.",
+        "rating": 4.5
+      }
+    }
+  }
+]

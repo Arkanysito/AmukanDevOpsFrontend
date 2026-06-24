@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titulo": "Restaurante Cap Ducal",
+    "duracion": "1 día",
+    "salida": "Viña centro 13:00PM",
+    "llegada": "Playa Acapulco 13:15PM",
+    "precio": 25000,
+    "lugar":[-33.015058,-71.552765],
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "No incluye hospedaje.",
+        "rating": 0
+      },
+      "transporte": {
+        "descripcion": "A pie o transporte propio.",
+        "rating": 0
+      },
+      "comida": {
+        "descripcion": "Especialidad en pescados y mariscos frescos.",
+        "rating": 4.9
+      },
+      "actividades": {
+        "descripcion": "Vista panorámica de la bahía mientras comes.",
+        "rating": 4.8
+      }
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Empanadas Delicias del Mar",
+    "duracion": "1 día",
+    "salida": "Terminal Viña 12:00PM",
+    "llegada": "Av. San Martín 12:10PM",
+    "precio": 8000,
+    "lugar":[-33.029210,-71.534704],
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "No incluye hospedaje.",
+        "rating": 0
+      },
+      "transporte": {
+        "descripcion": "Accesible en micro o colectivo.",
+        "rating": 4.2
+      },
+      "comida": {
+        "descripcion": "Empanadas de mariscos, queso y mechada.",
+        "rating": 4.7
+      },
+      "actividades": {
+        "descripcion": "Comer frente a la costanera.",
+        "rating": 4.5
+      }
+    }
+  }
+]

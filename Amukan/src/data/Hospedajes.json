@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "titulo": "Hotel Marina del Rey",
+    "duracion": "3 días / 2 noches",
+    "salida": "Santiago 09:00AM",
+    "llegada": "Viña del Mar 11:30AM",
+    "precio": 120000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "Hotel 4 estrellas cerca de la playa con desayuno incluido.",
+        "rating": 4.6
+      },
+      "transporte": {
+        "descripcion": "Traslado privado desde Santiago.",
+        "rating": 4.5
+      },
+      "comida": {
+        "descripcion": "Desayuno buffet y restaurante gourmet.",
+        "rating": 4.7
+      },
+      "actividades": {
+        "descripcion": "Acceso a piscina y spa del hotel.",
+        "rating": 4.8
+      }
+    }
+  },
+  {
+    "id": 2,
+    "titulo": "Hostal Playa Viña",
+    "duracion": "2 días / 1 noche",
+    "salida": "Valparaíso 10:00AM",
+    "llegada": "Viña del Mar 10:30AM",
+    "precio": 45000,
+    "servicios": {
+      "hospedaje": {
+        "descripcion": "Habitaciones simples a 2 cuadras de la playa.",
+        "rating": 4.1
+      },
+      "transporte": {
+        "descripcion": "Cercano a transporte público.",
+        "rating": 4.0
+      },
+      "comida": {
+        "descripcion": "Cocina compartida disponible.",
+        "rating": 3.9
+      },
+      "actividades": {
+        "descripcion": "Tours guiados por el centro de Viña.",
+        "rating": 4.3
+      }
+    }
+  }
+]
