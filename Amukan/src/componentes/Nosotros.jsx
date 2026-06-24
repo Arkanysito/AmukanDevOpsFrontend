@@ -5,7 +5,7 @@ import { PiBirdFill } from "react-icons/pi";
 import Benja from '../assets/destinos/Benjamin.jpg';
 import Ashley from '../assets/destinos/Ashley.jpg';
 import Ethan from '../assets/destinos/Ethan.jpg';
-import Nata from '../assets/destinos/Nata.jpg';
+import Nata from '../assets/destinos/nata.jpg';
 import Zada from '../assets/destinos/Karime.png';
 import AmukanLogo from '../assets/logopajarosolo.jpg';
 
